@@ -1,0 +1,39 @@
+.box{
+    -webkit-box-shadow: 10px 10px 29px -4px rgba(0,0,0,0.44);
+-moz-box-shadow: 10px 10px 29px -4px rgba(0,0,0,0.44);
+box-shadow: 10px 10px 29px -4px rgba(0,0,0,0.44);
+width: 30%;
+height: 50vh;
+margin-left: 30rem;
+
+}
+.Login-page{
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    padding: 3rem;
+    gap: 1rem;
+}
+.Login-page {
+    margin-top: 4rem;
+}
+.Login-page input{
+    width: 100%;
+    height: 4vh;
+    border-radius: 0.5rem;
+}
+.login-btn{
+    margin-top: 1rem;
+    height: 4vh;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
+.Login-page h2{
+    margin-left: 3rem;
+    margin-top: 0.5rem;
+}
+.signup-page-box{
+    height: 75vh;
+    width: 35%;
+}
